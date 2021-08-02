@@ -1,5 +1,4 @@
-# python-bootcamp
-## Youth In Code Free 3-Week Python Bootcamp
+# Youth In Code Free 3-Week Python Bootcamp
 
 This program is brought to you by [Youth In Code (YIC)](https://www.youthincode.cf/). YIC is a fiscally sponsored 501(c)(3) NPO by the Hack Foundation and Hack Club Bank that strives to connect students internationally online, giving them the opportunity to code projects by collaborating and communicating with their peers. YIC has partnered with several organizations in the past, impacted 10,000+ kids from 15 countries, and is only growing from there!
 
